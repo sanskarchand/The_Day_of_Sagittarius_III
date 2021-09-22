@@ -1,9 +1,0 @@
-Established rules:
-- Networked, team vs team game
-- Each player is a fleet commander, and on is overall commander
-- Fog of Ward; expand visible area by sending out scouts
-- 1500 ships for each player
-
-
-Filling in the gaps:
--Must be real time, I guess. Turn-based wouldn't be that fun.
